@@ -1,1 +1,1 @@
-"Hello World!"
+"Hello World from child second time!"
